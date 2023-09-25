@@ -1,0 +1,21 @@
+<table_info>
+<ID>1</ID>
+<NAME>John Doe</NAME>
+<ADDRESS_DATE>H#38,R#3,Banani,Dhaka</ADDRESS_DATE>
+<DEPARTMENT>Sales</DEPARTMENT>
+<SALARY>$20000</SALARY>
+
+<table_info>
+<ID>1</ID>
+<NAME>Mark Zuckerberg</NAME>
+<ADDRESS_DATE>Flat#A/1,H#20,R#18,Mirpur,Dhaka</ADDRESS_DATE>
+<DEPARTMENT>Accounts</DEPARTMENT>
+<SALARY>$12000</SALARY>
+
+<table_info>
+<ID>3</ID>
+<NAME>Ala Voski</NAME>
+<ADDRESS_DATE>H# 38,R#3,Motijheel</ADDRESS_DATE>
+<DEPARTMENT>Human Resource</DEPARTMENT>
+<SALARY>$30000</SALARY>
+</table_info>
